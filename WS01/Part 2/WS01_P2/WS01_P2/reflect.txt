@@ -1,0 +1,20 @@
+Workshop 1 Reflect
+Module: directory
+
+Filename: reflect
+Version 1
+Author	Devang Ramubhai Ahir Ahir
+Stu. ID 153484209
+-----------------------------------------------------------
+Date  1/22/2022     Reason
+-----------------------------------------------------------
+
+
+
+In this workshop I learned how to compile modules, create modules and make sure that it runs as a whole program. 
+The part one was to create modules from the given code, pretty self explainotary. For the second part I was asked to create a different
+function from the scracth. What I did is I created a single function where it open the text file and than ask the user for a name. If the textfile is not found
+than the program will send an error message saying that the file was not found. If the programme finds the textfile then it will 
+ask the user to give it a name. The I created a boolean If loop to compare the user's string with the strings in the textfile. If the 
+programs find any match then it will display the output in the programme. If not than the program will keep asking the user for an input. This is what
+I learned during the lectures and how to use namespace.  
