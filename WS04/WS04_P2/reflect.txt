@@ -1,0 +1,32 @@
+/* ------------------------------------------------------
+Workshop 4 part 2
+Module: N/A
+Filename: reflect.txt
+Version 1.1
+Author: Devang Ramubhai Ahir Ahir
+Revision History
+-----------------------------------------------------------
+Date          Reason
+13/02/2022
+-----------------------------------------------------------*/
+
+
+I learnt what "Constructors and Destructors" are throughout this course.
+Let me try to put everything I've learnt about these two functions so far into words.
+Class is a new data type, and we can't make it up as we go along; nevertheless, we can make it up as we go along.
+Making a class, which is simply a specification for a new data type.
+As a result, constructors are special class functions that are used to execute certain tasks.
+initialization of each and every object As a result, anytime we wish to make an object,
+We employ these special functions known as 'Constructors' within a class.
+Constructors are also used to provide information to our objects.
+Because most of the time we work with hundreds or thousands of objects, 
+instead of defining them one by one manually, we may immediately send the values within the function 
+Object() { [native code] } in this situation. That would take a significant amount of time.
+
+Here's an example from our workshop: 
+we had Contructor set the settings for us.
+
+- CarInventory(const char* type, const char* brand, const char* model, int year = 2022, int code = 100, double price = 1);
+
+On the other hand, Destructors' job is to dellocate memory before they exit scope.
+Furthermore, before  each object exiting the scope, they are invokes by the 'destructor' method.
