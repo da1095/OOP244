@@ -1,0 +1,6 @@
+﻿  HtmlText.cpp
+  main.cpp
+  Text.cpp
+C:\Users\da_10\Desktop\Seneca College\Semester 3\OOP244\WS09\WS09_P1\Text.cpp(46,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  WS09_P1.vcxproj -> C:\Users\da_10\Desktop\Seneca College\Semester 3\OOP244\WS09\WS09_P1\x64\Debug\WS09_P1.exe
