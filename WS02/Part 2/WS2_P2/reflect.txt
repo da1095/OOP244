@@ -1,0 +1,25 @@
+/* ------------------------------------------------------
+Workshop 2 part 2
+Module: N / A
+Filename: reflect.txt
+Version 1
+Author	Devang Ramubhai Ahir Ahir
+Revision History
+-----------------------------------------------------------
+Date       Reason
+-----------------------------------------------------------*/
+
+
+
+This workshop was based on the allcation and deallocation of memory within the code. For the first part we created a program thats record the
+entry of a car while crossing the border. So as there will be many cars passing throught the border, we need an car array. This array will be needing
+a space on memory to keep the car list in it. And once the program is done it will it won't need any space. So first we allocated a memory space in 
+to the car array, means giving a specific value to the size of the car. Then we cannot just keep the the array with the allocated memory
+because this will cause a memory leak. Apart from that I did mamake functions for searching the strings which is the car name and model with 
+license plate numbers.
+
+For the second part we created a program which takes the user string and finds if the string is in the excel sheet. Some things were similar
+as the workshop 1 where we start the program by opening the file so that the prgam can compare and find the same data and display it as an output.
+Addition to that we had to allocate and deallocate memory. So of course we had to allocate a memory space to the dna array and deallocate the dna
+array memory. Yes we reused the cStrTools module from the workshop 1 in this workshop 2 for both parts.
+  
