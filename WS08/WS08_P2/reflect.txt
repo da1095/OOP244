@@ -1,0 +1,28 @@
+/* ------------------------------------------------------
+Workshop 8 part 2
+Module: N/A
+Filename: reflect.txt
+Version 1.1
+Author: Devang Ramubhai Ahir Ahir
+Revision History
+-----------------------------------------------------------
+Date          Reason
+23/03/2022
+-----------------------------------------------------------*/
+Workshop 8 was a fantastic project to work on. I learned a lot about virtual functions and abstract base classes from it. 
+Polymorphism was also something I learnt about. Polymorphism refers to the fact that a single identifier can have 
+several meanings.The word polymorphic means 'of numerous forms.' A polymorphic language determines the operation to perform 
+on an item dependent on the type of the object.
+
+Inclusion polymorphism is exemplified by virtual functions. Inclusion polymorphism is implemented in object-oriented 
+languages through a hierarchy of member functions. A polymorphic object's type can change at any moment throughout 
+its lifespan to any other type in the same inheritance structure. Its static type is the item's hierarchical type, 
+whereas its dynamic type is the actual type of the object. A virtual function is a member function that is declared 
+in a base class and overridden by a derived class. Regardless of the kind of reference (or pointer) used for function 
+call, virtual functions ensure that the right function is called for an object.
+
+A pure virtual function is contained in or inherited by an abstract class. The compiler is unable to create the class 
+because it lacks implementations for its pure virtual function(s). A compiler error occurs if you try to make an 
+instance of an abstract base class. Any abstract base class definition includes or inherits at least one pure virtual 
+member function. The declaration of the pure virtual function is found in the class definition. A pure interface is an 
+abstract base class that has no data members. Well, I had a fantastic time completing this Workshop since I learnt a lot of new stuff.

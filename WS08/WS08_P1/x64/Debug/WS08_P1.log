@@ -1,0 +1,5 @@
+﻿  LblShape.cpp
+  Rectangle.cpp
+C:\Users\da_10\Desktop\Seneca College\Semester 3\OOP244\WS08\WS08_P1\Rectangle.cpp(20,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  WS08_P1.vcxproj -> C:\Users\da_10\Desktop\Seneca College\Semester 3\OOP244\WS08\WS08_P1\x64\Debug\WS08_P1.exe
