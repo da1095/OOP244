@@ -1,0 +1,17 @@
+/* ------------------------------------------------------
+Workshop 5 part 2
+Module: N/A
+Filename: reflect.txt
+Version 1.1
+Author: Devang Ramubhai Ahir Ahir
+Revision History
+-----------------------------------------------------------
+Date          Reason
+20/02/2022
+-----------------------------------------------------------*/
+In this workshops we learned about helper functions and memeber operators how to use them and their different approaches. 
+Helper functions in C++ will help you use or interact with the classes indirectly. Is also used to replicate or resuse 
+the same functions a lot of times in multiple places. Some of these functions are the average function. For member operators 
+they identify an overloaded operation, and its marked or represented by a symbol. They can be arithmetic, logical, for 
+insertion and extract, etc. I learned that that in C++ you cannot overload the scope resolution operator, the conditional 
+operator, etc. And that they can be unary, binary and ternary.
