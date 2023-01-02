@@ -1,0 +1,17 @@
+/* ------------------------------------------------------
+Workshop 3 part 2
+Module: N/A
+Filename: reflect.txt
+Version 1
+Author: Devang Ramubhai Ahir Ahir
+Revision History
+-----------------------------------------------------------
+Date       Reason
+-----------------------------------------------------------*/
+
+
+This workshop was based on member function and privacy. We were asked to create a class name trains
+and give some objects with a type and value for them. Well not object but they are knowns a privatize data
+just for the created class. With that we are asked to query the state of an object change the state of an
+object. We did this with both part 1 and part 2. Communication links were also used in this workshop.
+  
